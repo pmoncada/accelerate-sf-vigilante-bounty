@@ -8,9 +8,9 @@ Reduce the amount of shit on the streets of San Francisco through a vigilante bo
 
 The proposed solution has three main parts:
 
-1.) A method of identification of human shit.
-2.) A method of bounty creation and direct financing to solve the problem.
-3.) A method of validating the cleaning and receiving payment.
+- A method of identification of human shit, creating a bounty.
+- A method of direct financing to clean the shit.
+- A method of validating the cleaning and receiving payment.
 
 
 ## Adding Shit
@@ -34,6 +34,8 @@ If the user cleans the shit they submit a photo of the cleaned site, by submitti
 ## Validating Shit
 
 An administrator would make sure the evidence is properly submitted and there wasn't an fraudulent poop submitted.
+
+If validated, the person who cleaned the shit would receive the payment.
 
 
 
