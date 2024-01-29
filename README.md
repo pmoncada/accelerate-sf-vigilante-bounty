@@ -29,7 +29,7 @@ Users can also donate to the site and their contribution would be evenly distrib
 
 ## Cleaning Shit
 
-If the user cleans the shit they submit a photo of the cleaned site, by submitting photographic evidence.
+If the user cleans the shit they submit a photo of the cleaned site, and sent for validation.
 
 ## Validating Shit
 
