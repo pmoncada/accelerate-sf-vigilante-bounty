@@ -37,6 +37,11 @@ An administrator would make sure the evidence is properly submitted and there wa
 
 If validated, the person who cleaned the shit would receive the payment.
 
+## Shitcoin
+
+A potential future idea would be to create and ERC-20 shitcoin. Donations are routed to a DEX pool to purchase shitcoin, and rewards are distributed in shitcoin for cleaning shits.
+
+This creates a free market incentive for people to speculate on shitcoins with the added benefit of cleaning up the streets of San Francisco.
 
 
 
