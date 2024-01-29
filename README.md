@@ -29,11 +29,11 @@ Users can also donate to the site and their contribution would be evenly distrib
 
 ## Cleaning Shit
 
-If the user cleans the shit they submit a photo of the cleaned site, and sent for validation.
+If the user cleans the shit they submit a photo of the cleaned site, sending it for validation.
 
 ## Validating Shit
 
-An administrator would make sure the evidence is properly submitted and there wasn't an fraudulent poop submitted.
+An administrator would make sure the evidence is properly submitted and there wasn't a fraudulent poop submitted.
 
 If validated, the person who cleaned the shit would receive the payment.
 
