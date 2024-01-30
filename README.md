@@ -1,5 +1,8 @@
 # accelerate-sf-vigilante-bounty
 
+![image](https://github.com/pmoncada/accelerate-sf-vigilante-bounty/assets/24830704/be9d0704-6a74-48b1-ad80-0c7e9a30d151)
+
+
 ## Problem Statement
 
 Reduce the amount of shit on the streets of San Francisco through a vigilante bounty system.
