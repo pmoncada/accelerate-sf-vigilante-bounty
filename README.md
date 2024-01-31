@@ -42,7 +42,7 @@ If validated, the person who cleaned the shit would receive the payment.
 
 ## Shitcoin
 
-To finance the shit bounties the SF community could launch an ERC-20 shitcoin. Donations are routed to a DEX pool to purchase shitcoin, and rewards are distributed in shitcoin for cleaning shits.
+To finance the shit bounties the SF community could launch an ERC-20 shitcoin. Donations are routed to a Revnet to purchase shitcoin, and rewards are distributed in shitcoin for cleaning shits. Shitcoins could be held by the bounty winner, or sold back to the Revnet to cash out.
 
 This creates a free market incentive for people to speculate on shitcoins with the added benefit of cleaning up the streets of San Francisco.
 
