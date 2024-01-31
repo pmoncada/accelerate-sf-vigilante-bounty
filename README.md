@@ -11,7 +11,7 @@ Reduce the amount of shit on the streets of San Francisco through a vigilante bo
 
 The proposed solution has three main parts:
 
-- A method of identification of human shit, creating a bounty.
+- A method of identification of shit, creating a bounty.
 - A method of direct financing to clean the shit.
 - A method of validating the cleaning and receiving payment.
 
